@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0204-count-primes) |
 | [0739-daily-temperatures](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0739-daily-temperatures) |
 ## Math
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
