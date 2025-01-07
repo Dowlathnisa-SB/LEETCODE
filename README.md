@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0204-count-primes](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0204-count-primes) |
 | [0739-daily-temperatures](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0739-daily-temperatures) |
 ## Math
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0319-bulb-switcher) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
