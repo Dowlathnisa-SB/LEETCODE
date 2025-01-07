@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0258-add-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dowlathnisa-SB/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
